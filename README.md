@@ -1,7 +1,6 @@
 <div id="mod-0p">
 
-# Privacy Policy for the  
-<span class="app-name" style="opacity: 1;">Moneyzen - Income Tracker</span> App
+# Privacy Policy for the  Moneyzen - Income Tracker App
 
 **Last updated:** <span id="mod-0p-date">04/25/2020</span>  
 <span id="mod-0p-url"></span>
